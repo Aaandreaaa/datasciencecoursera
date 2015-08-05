@@ -9,3 +9,6 @@
 * *Første ting*
 * **Andre ting**
 * **_Tredje ting_**
+
+###Markdown syntax
+[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
