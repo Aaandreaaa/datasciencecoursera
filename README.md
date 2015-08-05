@@ -6,6 +6,6 @@
 3. Tredje ting
 
 ### Dette er en liste uten nummer
-* Første ting
-* Andre ting
-* Tredje ting
+* *Første ting*
+* **Andre ting**
+* **_Tredje ting_**
